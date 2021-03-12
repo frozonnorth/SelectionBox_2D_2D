@@ -1,0 +1,207 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.0f1 (3721df5a8b28) revision 3613151'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 16263 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/khiew/Desktop/SelectionBox_2D_2D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57832
+Successfully changed project path to: C:/Users/khiew/Desktop/SelectionBox_2D_2D
+C:/Users/khiew/Desktop/SelectionBox_2D_2D
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 22.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0f1 (3721df5a8b28)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/khiew/Desktop/SelectionBox_2D_2D/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.5206
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56284
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001497 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 20.98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.948 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000590 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1098 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.6 MB.
+System memory in use after: 56.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1540.
+Total: 1.649700 ms (FindLiveObjects: 0.121100 ms CreateObjectMapping: 0.030200 ms MarkObjects: 1.449000 ms  DeleteObjects: 0.048700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SelectionBox_2D_2D/SelectionBox_2D_2D.cs
+  artifactKey: Guid(2f2c7b7e6e4f55c4a8fdf92a39119776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SelectionBox_2D_2D/SelectionBox_2D_2D.cs using Guid(2f2c7b7e6e4f55c4a8fdf92a39119776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eddd6b75e06393447a4e757fa5de005') in 0.040952 seconds
+  Import took 0.042896 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000574 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.707 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.8 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1542.
+Total: 1.628200 ms (FindLiveObjects: 0.125200 ms CreateObjectMapping: 0.030800 ms MarkObjects: 1.435800 ms  DeleteObjects: 0.035300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 215.954212 seconds.
+  path: Assets/SelectionBox_2D_2D/SelectionBox_2D_2D.cs
+  artifactKey: Guid(2f2c7b7e6e4f55c4a8fdf92a39119776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SelectionBox_2D_2D/SelectionBox_2D_2D.cs using Guid(2f2c7b7e6e4f55c4a8fdf92a39119776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855095691227652f67274eb799715c61') in 0.004457 seconds
+  Import took 0.006096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.643067 seconds.
+  path: Assets/SelectionBox_2D_2D/SelectionBox_2D_2D.cs
+  artifactKey: Guid(2f2c7b7e6e4f55c4a8fdf92a39119776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SelectionBox_2D_2D/SelectionBox_2D_2D.cs using Guid(2f2c7b7e6e4f55c4a8fdf92a39119776) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855095691227652f67274eb799715c61') in 0.002717 seconds
+  Import took 0.004411 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000606 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.695 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.8 MB.
+System memory in use after: 56.9 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1544.
+Total: 1.564700 ms (FindLiveObjects: 0.115900 ms CreateObjectMapping: 0.028700 ms MarkObjects: 1.386400 ms  DeleteObjects: 0.032800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.608288 seconds.
+  path: Assets/SelectionBox_2D_2D/Example/SelectionBox_2D_3D_Example.cs
+  artifactKey: Guid(1856c78f904b66d49a87c09b9c90203e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SelectionBox_2D_2D/Example/SelectionBox_2D_3D_Example.cs using Guid(1856c78f904b66d49a87c09b9c90203e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e955e848de4e11bfd36229656d0c5e49') in 0.008666 seconds
+  Import took 0.010780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.027505 seconds.
+  path: Assets/SelectionBox_2D_2D/Example/SelectionBox_2D_2D_Example.cs
+  artifactKey: Guid(1856c78f904b66d49a87c09b9c90203e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SelectionBox_2D_2D/Example/SelectionBox_2D_2D_Example.cs using Guid(1856c78f904b66d49a87c09b9c90203e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97c33488d0544d46723cc11ad91b877c') in 0.010265 seconds
+  Import took 0.012721 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000663 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.769 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1546.
+Total: 1.553400 ms (FindLiveObjects: 0.107200 ms CreateObjectMapping: 0.032400 ms MarkObjects: 1.381400 ms  DeleteObjects: 0.031400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000648 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.703 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.2 MB.
+System memory in use after: 57.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1548.
+Total: 1.701400 ms (FindLiveObjects: 0.161200 ms CreateObjectMapping: 0.052300 ms MarkObjects: 1.453400 ms  DeleteObjects: 0.033600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
